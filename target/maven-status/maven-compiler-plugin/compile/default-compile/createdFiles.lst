@@ -1,0 +1,8 @@
+com\cognizant\fms\mailingservice\model\EmailProperties.class
+com\cognizant\fms\mailingservice\MailingServiceApplication.class
+com\cognizant\fms\mailingservice\config\FreeMarkerConfig.class
+com\cognizant\fms\mailingservice\config\EmailConfig.class
+com\cognizant\fms\mailingservice\service\EmailService.class
+com\cognizant\fms\mailingservice\controller\EmailController.class
+com\cognizant\fms\mailingservice\model\Mail.class
+META-INF\spring-configuration-metadata.json

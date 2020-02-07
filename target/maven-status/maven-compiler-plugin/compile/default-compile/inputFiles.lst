@@ -1,0 +1,7 @@
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\MailingServiceApplication.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\service\EmailService.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\model\EmailProperties.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\model\Mail.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\config\EmailConfig.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\config\FreeMarkerConfig.java
+D:\Users\848063\CapstoneMicroServices\CapstoneMailSender\src\main\java\com\cognizant\fms\mailingservice\controller\EmailController.java
